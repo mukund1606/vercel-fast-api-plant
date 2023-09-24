@@ -1,5 +1,6 @@
 fastapi
 uvicorn
 pillow
-tensorflow
+tensorflow-cpu
+python-multipart
 typing_extensions==4.7.1
