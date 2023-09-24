@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pillow
+tensorflow
+typing_extensions==4.7.1
